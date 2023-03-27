@@ -1,2 +1,3 @@
 # Forecast-para-o-Consumo-
 Projeção de séries temporais para o consumo no Maranhão
+Realiza projeto de forecast para o consumo no estado do Maranhão, utilizando a tabela 1463 do Sistema Gerenciador de Séries Temporais e a combinação de modelos SARIMA-ETS. Realiza análise exploratória dos dados, identifica a presença de sazonalidade e tendência, e utiliza técnicas de diferenciação e transformação para tornar os dados estacionários. Estima modelos SARIMA-ETS para diferentes frequências de dados e seleciona o melhor modelo com base nos critérios de informação. Realiza validação cruzada e avalia a precisão das previsões usando medidas de erro de previsão. Produz gráficos para visualizar os resultados e interpretar as previsões futuras.
